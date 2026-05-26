@@ -4,7 +4,7 @@ Sri Lanka Legal Archives
 
 ## Sri Lanka Legal Intelligence Infrastructure
 
-Welcome to the **Lanka-Law Data Archive**, an open legal data repository developed to support the operations of **LankaLaw.net** — Sri Lanka’s first-ever **Legal Intelligence Layer**.
+Welcome to the **Lanka Law Data Archive**, an open legal data repository developed to support the operations of **LankaLaw.net** — Sri Lanka’s first-ever **Legal Intelligence Layer**.
 
 This repository is maintained by **Lanka Data Net (LDN)** in collaboration with **Chat2Find** to transform Sri Lankan legal information into structured, searchable, and AI-ready datasets.
 
