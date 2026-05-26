@@ -1,4 +1,4 @@
-# Lanka-Law
+# Lanka Law
 Sri Lanka Legal Archives
 # ⚖️ Lanka-Law Data Archive
 
