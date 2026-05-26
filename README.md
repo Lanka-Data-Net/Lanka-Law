@@ -1,39 +1,121 @@
 # Lanka-Law
 Sri Lanka Legal Archives
-Welcome to the Lanka-Law Data Archive, an open legal data repository developed to support the operations of LankaLaw.net — Sri Lanka’s first-ever Legal Intelligence Layer. This archive is maintained by Lanka Data Net (LDN) in collaboration with Chat2Find, with the goal of transforming public legal information into structured, searchable, and AI-ready datasets.
-The repository contains curated databases covering Sri Lankan legislation, judicial decisions, gazette notices, parliamentary bills, legal reports, and related legal reference materials. These datasets are designed to power intelligent legal search, analytics, legal research automation, and next-generation AI-assisted legal services across Sri Lanka.
-Purpose
-The Lanka-Law Data Archive was created to:
-Digitize and organize Sri Lankan legal information
-Build structured legal datasets for AI and legal intelligence systems
-Support legal search and discovery platforms
-Enable faster legal research and public access to law
-Create foundational infrastructure for legal technology innovation in Sri Lanka
-About LankaLaw.net
-LankaLaw.net is Sri Lanka’s first Legal Intelligence Layer — an AI-powered legal information ecosystem that combines structured legal databases, intelligent search, and legal data analytics to improve access to legal knowledge.
-The platform integrates technologies and datasets developed by:
-Lanka Data Net (LDN) — Sri Lanka-focused public data and intelligence infrastructure initiative
-Chat2Find — AI-powered search and discovery technologies for structured public information
-Repository Contents
-This archive currently includes datasets such as:
-Sri Lankan Acts
-Supreme Court Judgements
-Legislative Enactments
-Gazette References
-Parliamentary Bills
-Law Reports
-Legal Metadata Collections
-Additional legal datasets and indexing systems will continue to be added over time.
-Vision
-Our long-term vision is to establish an open and intelligent legal data ecosystem for Sri Lanka that enables:
-AI-assisted legal research
-Legal knowledge accessibility
-Public legal transparency
-Legal analytics and insights
-Intelligent legal assistants and applications
-Disclaimer
-This repository is intended for research, educational, and informational purposes. While efforts are made to maintain data accuracy and completeness, users should independently verify legal materials through official government publications and authorized legal sources.
-Maintained By
-Lanka Data Net (LDN)
-Public Data Intelligence Infrastructure for Sri Lanka
-In collaboration with Chat2Find and the LankaLaw.net Legal Intelligence Initiative.
+# ⚖️ Lanka-Law Data Archive
+
+## Sri Lanka Legal Intelligence Infrastructure
+
+Welcome to the **Lanka-Law Data Archive**, an open legal data repository developed to support the operations of **LankaLaw.net** — Sri Lanka’s first-ever **Legal Intelligence Layer**.
+
+This repository is maintained by **Lanka Data Net (LDN)** in collaboration with **Chat2Find** to transform Sri Lankan legal information into structured, searchable, and AI-ready datasets.
+
+---
+
+## 📚 About the Project
+
+The Lanka-Law Data Archive provides structured legal databases covering:
+
+- Sri Lankan Acts
+- Supreme Court Judgements
+- Legislative Enactments
+- Gazette Notifications
+- Parliamentary Bills
+- Law Reports
+- Legal Reference Metadata
+
+These datasets are designed to power:
+
+- AI-powered legal search
+- Legal intelligence systems
+- Research automation
+- Public legal access platforms
+- Legal analytics and insights
+
+---
+
+## 🚀 About LankaLaw.net
+
+**LankaLaw.net** is Sri Lanka’s first Legal Intelligence Layer — an AI-driven legal information ecosystem designed to modernize access to Sri Lankan law.
+
+The platform combines:
+
+- Structured legal databases
+- Intelligent search systems
+- AI-assisted legal discovery
+- Public legal archives
+- Data indexing and legal analytics
+
+---
+
+## 🧠 Powered By
+
+### Lanka Data Net (LDN)
+
+**Lanka Data Net (LDN)** is a Sri Lanka-focused public data intelligence initiative building open data infrastructure, intelligent indexing systems, and AI-ready datasets for national information accessibility.
+
+### Chat2Find
+
+**Chat2Find** provides intelligent AI search and discovery technologies for structured public data systems and next-generation information retrieval.
+
+---
+
+## 📂 Repository Structure
+
+| Dataset | Description |
+|----------|-------------|
+| `Sri Lanka Acts.csv` | Structured database of Sri Lankan Acts |
+| `SC_Judgements_LankaLaw.csv` | Supreme Court judgement archive |
+| `Legislative Enactments.csv` | Legislative enactment records |
+| `gazette_links.csv` | Gazette publication references |
+| `bills_links.csv` | Parliamentary bill references |
+| `sri_lanka_law_reports.csv` | Sri Lanka law report database |
+
+---
+
+## 🎯 Vision
+
+Our mission is to build Sri Lanka’s foundational legal intelligence infrastructure by enabling:
+
+- Open legal data access
+- AI-assisted legal research
+- Faster legal discovery
+- Public legal transparency
+- Legal technology innovation
+- Intelligent legal assistants
+
+---
+
+## 🌐 Ecosystem
+
+- **LankaLaw.net** — Legal Intelligence Layer
+- **Lanka Data Net (LDN)** — Public Data Infrastructure
+- **Chat2Find** — AI Search & Discovery
+
+Together, these initiatives aim to create Sri Lanka’s next-generation legal information ecosystem.
+
+---
+
+## ⚠️ Disclaimer
+
+This repository is provided for research, educational, and informational purposes only.
+
+While efforts are made to maintain accuracy and completeness, users should independently verify legal materials using official government publications and authorized legal sources.
+
+---
+
+## 🤝 Contributions
+
+Contributions, corrections, dataset improvements, and collaborations are welcome.
+
+If you would like to contribute to the development of Sri Lanka’s open legal intelligence ecosystem, feel free to open an issue or submit a pull request.
+
+---
+
+## 📌 Maintained By
+
+### Lanka Data Net (LDN)
+
+Building Sri Lanka’s Intelligent Public Data Infrastructure.
+
+In collaboration with **Chat2Find** and the **LankaLaw.net** initiative.
+
+---
